@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reacttestapp-gh-pages/static/css/main.e33f521c.chunk.css",
-    "main.js": "/reacttestapp-gh-pages/static/js/main.716d30b1.chunk.js",
-    "main.js.map": "/reacttestapp-gh-pages/static/js/main.716d30b1.chunk.js.map",
-    "runtime-main.js": "/reacttestapp-gh-pages/static/js/runtime-main.a9090906.js",
-    "runtime-main.js.map": "/reacttestapp-gh-pages/static/js/runtime-main.a9090906.js.map",
-    "static/css/2.e67a029f.chunk.css": "/reacttestapp-gh-pages/static/css/2.e67a029f.chunk.css",
-    "static/js/2.5f40cf0f.chunk.js": "/reacttestapp-gh-pages/static/js/2.5f40cf0f.chunk.js",
-    "static/js/2.5f40cf0f.chunk.js.map": "/reacttestapp-gh-pages/static/js/2.5f40cf0f.chunk.js.map",
-    "static/js/3.c13e9c21.chunk.js": "/reacttestapp-gh-pages/static/js/3.c13e9c21.chunk.js",
-    "static/js/3.c13e9c21.chunk.js.map": "/reacttestapp-gh-pages/static/js/3.c13e9c21.chunk.js.map",
-    "index.html": "/reacttestapp-gh-pages/index.html",
-    "static/css/2.e67a029f.chunk.css.map": "/reacttestapp-gh-pages/static/css/2.e67a029f.chunk.css.map",
-    "static/css/main.e33f521c.chunk.css.map": "/reacttestapp-gh-pages/static/css/main.e33f521c.chunk.css.map",
-    "static/js/2.5f40cf0f.chunk.js.LICENSE.txt": "/reacttestapp-gh-pages/static/js/2.5f40cf0f.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/reacttestapp-gh-pages/static/media/slick.c94f7671.ttf"
+    "main.css": "/acm-website-gh-pages/static/css/main.0d7f3e63.chunk.css",
+    "main.js": "/acm-website-gh-pages/static/js/main.b47d4e9a.chunk.js",
+    "main.js.map": "/acm-website-gh-pages/static/js/main.b47d4e9a.chunk.js.map",
+    "runtime-main.js": "/acm-website-gh-pages/static/js/runtime-main.9d8095fc.js",
+    "runtime-main.js.map": "/acm-website-gh-pages/static/js/runtime-main.9d8095fc.js.map",
+    "static/css/2.e67a029f.chunk.css": "/acm-website-gh-pages/static/css/2.e67a029f.chunk.css",
+    "static/js/2.5f40cf0f.chunk.js": "/acm-website-gh-pages/static/js/2.5f40cf0f.chunk.js",
+    "static/js/2.5f40cf0f.chunk.js.map": "/acm-website-gh-pages/static/js/2.5f40cf0f.chunk.js.map",
+    "static/js/3.c13e9c21.chunk.js": "/acm-website-gh-pages/static/js/3.c13e9c21.chunk.js",
+    "static/js/3.c13e9c21.chunk.js.map": "/acm-website-gh-pages/static/js/3.c13e9c21.chunk.js.map",
+    "index.html": "/acm-website-gh-pages/index.html",
+    "static/css/2.e67a029f.chunk.css.map": "/acm-website-gh-pages/static/css/2.e67a029f.chunk.css.map",
+    "static/css/main.0d7f3e63.chunk.css.map": "/acm-website-gh-pages/static/css/main.0d7f3e63.chunk.css.map",
+    "static/js/2.5f40cf0f.chunk.js.LICENSE.txt": "/acm-website-gh-pages/static/js/2.5f40cf0f.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/acm-website-gh-pages/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9090906.js",
+    "static/js/runtime-main.9d8095fc.js",
     "static/css/2.e67a029f.chunk.css",
     "static/js/2.5f40cf0f.chunk.js",
-    "static/css/main.e33f521c.chunk.css",
-    "static/js/main.716d30b1.chunk.js"
+    "static/css/main.0d7f3e63.chunk.css",
+    "static/js/main.b47d4e9a.chunk.js"
   ]
 }
